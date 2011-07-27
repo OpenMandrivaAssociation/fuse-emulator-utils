@@ -13,7 +13,7 @@ BuildRequires:	libz-devel
 BuildRequires:	libspectrum-devel >= 1.0.0
 BuildRequires:	libgcrypt-devel >= 1.1.42
 BuildRequires:	autoconf
-BuildRequires:	gettext
+BuildRequires:	gettext-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 Obsoletes:	fuse-utils
