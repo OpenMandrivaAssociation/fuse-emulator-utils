@@ -2,7 +2,7 @@
 
 Summary:	A few tools to deal with ZX Spectrum emulator files
 Name:		fuse-emulator-utils
-Version:	1.1.0
+Version:	1.1.1
 Release:	1
 Group:		Emulators
 License:	GPLv2+
