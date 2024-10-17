@@ -6,7 +6,7 @@ Version:	1.1.1
 Release:	2
 Group:		Emulators
 License:	GPLv2+
-URL:		http://fuse-emulator.sourceforge.net/
+URL:		https://fuse-emulator.sourceforge.net/
 Source0:	%{oname}-%{version}.tar.gz
 BuildRequires:	gettext-devel
 BuildRequires:	libgcrypt-devel >= 1.1.42
