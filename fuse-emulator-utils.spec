@@ -8,6 +8,11 @@ Group:		Emulators
 License:	GPLv2+
 URL:		https://fuse-emulator.sourceforge.net/
 Source0:	%{oname}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gettext-devel
 BuildRequires:	libgcrypt-devel >= 1.1.42
 BuildRequires:	libspectrum-devel >= %{version}
